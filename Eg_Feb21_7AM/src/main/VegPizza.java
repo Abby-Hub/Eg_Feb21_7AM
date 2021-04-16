@@ -13,6 +13,7 @@ public class VegPizza extends Pizza {
 		}
 		else
 				System.out.println("Invalid Veg Pizza you Choose... Pls Check :-(");
+		       // throw InvalidPizzaException("Invalid Veg Pizza you Choose... Pls Check :-(");
 	}
 
 
